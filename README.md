@@ -1,4 +1,4 @@
-<img width="657" alt="Screenshot 2024-05-05 at 2 10 02 PM" src="https://github.com/lakshaysharma399/pizza-shop-analysis/assets/86288827/b2afde0e-ef61-48a1-86ec-93fc359a252b"># pizza-shop-analysis
+SQL for Data Analaysis
 
 DATASET
 The dataset used for this analysis contains information about pizza orders, including customer details, order dates, pizza types, quantities ordered, prices, and delivery information. It may also include additional data such as delivery times, and order statuses.
@@ -20,4 +20,4 @@ The analysis will involve writing SQL queries to extract, transform, and analyze
 -- Analyze the cumulative revenue generated over time.
 
 
-![Uploading Screenshot 2024-05-05 at 2.10.02 PM.png…]()
+<img width="657" alt="Screenshot 2024-05-05 at 2 10 02 PM" src="https://github.com/lakshaysharma399/pizza-shop-analysis/assets/86288827/b2afde0e-ef61-48a1-86ec-93fc359a252b">
